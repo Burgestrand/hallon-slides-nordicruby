@@ -1,0 +1,40 @@
+.slides
+{
+  padding: 0;
+}
+
+section
+{
+  background-repeat: no-repeat !important;
+}
+
+strong
+{
+	color: hsl(185, 85%, 50%);
+}
+
+section img
+{
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.centered.background
+{
+  border: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slide_1
+{
+  background: url(../images/elabs-logo.png);
+  background-size: 320px;
+  background-position: center bottom;
+}
+
+.slide_2 img
+{
+  padding-bottom: 30px;
+}
